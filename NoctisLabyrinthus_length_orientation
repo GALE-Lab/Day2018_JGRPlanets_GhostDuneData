@@ -7,7 +7,7 @@
 # Day, M., and Catling, C., 2018, Dune casts preserved by partial burial: the first identification of “ghost dune” pits on Mars: J. Geophys. Res. Planets. Special issue. 
 
 
-#FID	Length (m)	MigrationDirection (deg) 
+#FID	Length (m)	Migration (deg) 
 0	  189.225873	175.0058636
 1	  211.760081	178.2168958
 2	  175.557344	183.2274006
