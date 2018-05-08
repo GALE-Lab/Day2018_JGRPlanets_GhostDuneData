@@ -1,7 +1,11 @@
-# Noctis Labyrinthus 
-# Below are all pit-length measurements made in the putative ancient dune field of Noctis Labyrinthus 
+#Noctis Labyrinthus
+# Below are all pit-length measurements made in the putative ancient dune field of Noctis Labyrinthus. 
 # Lengths were measured using the aeolian dune convention as described in the journal publication (see README file) 
-# Lengths were additionally used to calculate an interpreted migration direction (column 3) 
+# Lengths were additionally used to calculate an interpreted migration direction (column 3)
+
+# For more information contact Mackenzie Day at daym@uw.edu or see: 
+# Day, M., and Catling, C., 2018, Dune casts preserved by partial burial: the first identification of “ghost dune” pits on Mars: J. Geophys. Res. Planets. Special issue. 
+
 
 #FID	Length (m)	MigrationDirection (deg) 
 0	  189.225873	175.0058636
